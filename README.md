@@ -5,5 +5,5 @@
 * run npm start
 
 # Test info
-* username: 'tuannk', pass: '123456'
-* location: '16.047079,108.206230'
+* username: "tuannk", pass: "123456"
+* location: "16.047079,108.206230"
